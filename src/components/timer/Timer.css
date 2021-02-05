@@ -1,0 +1,10 @@
+.timer {
+  position: relative;
+  display: flex;
+  z-index: 1000;
+}
+
+.timer--hidden {
+  position: absolute;
+  opacity: 0;
+}
