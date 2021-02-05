@@ -1,0 +1,24 @@
+.background svg:first-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+.background svg:last-child {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  height: 30vh;
+  z-index: 10;
+}
+
+
+@media only screen and (min-width: 1250px) {
+  .background svg:last-child {
+    width: 100vw;
+    height: auto;
+  }
+}
