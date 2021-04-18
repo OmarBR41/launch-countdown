@@ -13,7 +13,7 @@ const INITIAL_STATE = {
 
 const calculateTimeLeft = () => {
   let year = new Date().getFullYear();
-  let difference = +new Date(`02/14/${year}`) - +new Date();
+  let difference = +new Date(`06/14/${year}`) - +new Date();
   let timeLeft = {};
 
   if (difference > 0) {
