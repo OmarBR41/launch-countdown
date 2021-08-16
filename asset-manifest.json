@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/launch-countdown/static/css/main.0ac97a38.chunk.css",
-    "main.js": "/launch-countdown/static/js/main.a3d9e1d9.chunk.js",
-    "main.js.map": "/launch-countdown/static/js/main.a3d9e1d9.chunk.js.map",
+    "main.css": "/launch-countdown/static/css/main.1649e9bc.chunk.css",
+    "main.js": "/launch-countdown/static/js/main.23826d55.chunk.js",
+    "main.js.map": "/launch-countdown/static/js/main.23826d55.chunk.js.map",
     "runtime-main.js": "/launch-countdown/static/js/runtime-main.b62e68fe.js",
     "runtime-main.js.map": "/launch-countdown/static/js/runtime-main.b62e68fe.js.map",
     "static/js/2.4fefc4f2.chunk.js": "/launch-countdown/static/js/2.4fefc4f2.chunk.js",
     "static/js/2.4fefc4f2.chunk.js.map": "/launch-countdown/static/js/2.4fefc4f2.chunk.js.map",
     "index.html": "/launch-countdown/index.html",
-    "static/css/main.0ac97a38.chunk.css.map": "/launch-countdown/static/css/main.0ac97a38.chunk.css.map",
+    "static/css/main.1649e9bc.chunk.css.map": "/launch-countdown/static/css/main.1649e9bc.chunk.css.map",
     "static/js/2.4fefc4f2.chunk.js.LICENSE.txt": "/launch-countdown/static/js/2.4fefc4f2.chunk.js.LICENSE.txt",
     "static/media/bg-stars.155cf4a9.svg": "/launch-countdown/static/media/bg-stars.155cf4a9.svg",
     "static/media/icon-facebook.a9208377.svg": "/launch-countdown/static/media/icon-facebook.a9208377.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b62e68fe.js",
     "static/js/2.4fefc4f2.chunk.js",
-    "static/css/main.0ac97a38.chunk.css",
-    "static/js/main.a3d9e1d9.chunk.js"
+    "static/css/main.1649e9bc.chunk.css",
+    "static/js/main.23826d55.chunk.js"
   ]
 }
