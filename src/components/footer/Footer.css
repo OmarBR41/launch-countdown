@@ -9,3 +9,7 @@ footer {
   transform: translateX(-50%);
   z-index: 1000;
 }
+
+footer a:hover * {
+  fill: white
+}
