@@ -12,8 +12,18 @@ const INITIAL_STATE = {
 };
 
 const calculateTimeLeft = () => {
-  let year = new Date().getFullYear();
-  let difference = +new Date(`06/14/${year}`) - +new Date();
+  const today = new Date();
+  const currentMonth = today.getMonth();
+  const currentYear = today.getFullYear();
+  let nextDate;
+
+  if (currentMonth === 11) {
+    nextDate = new Date(currentYear + 1, 0, 1);
+  } else {
+    nextDate = new Date(currentYear, currentMonth + 1, 1);
+  }
+
+  const difference = +nextDate - +today;
   let timeLeft = {};
 
   if (difference > 0) {
