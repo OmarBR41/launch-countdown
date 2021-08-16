@@ -1,6 +1,8 @@
 # Launch countdown timer
 
-This is a live countdown that ticks every second until the date of launch arrives. Has a flip animation.
+This is a live countdown that ticks every second until the date of launch arrives. The cards have a flip animation.
+
+The "date of launch" is set dynamically to the first day of the next month. 
 
 ## Developed with
 
@@ -8,6 +10,8 @@ This is a live countdown that ticks every second until the date of launch arrive
 - CSS
 
 Mobile first approach and responsive design.
+
+The app is currently [live here](https://omarbr41.github.io/launch-countdown/)
 
 ## This is a Frontend Mentor Challenge
 
